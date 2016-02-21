@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+}
+
+body > * {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#srch_bar {
+  width: 350px;
+}
